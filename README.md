@@ -19,7 +19,7 @@
   ####
   
   <div> 
-  <a href="https://instagram.com/mhaffz_." target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Instagram-%23ED1C24?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://instagram.com/haffz._" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Instagram-%23ED1C24?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/mateus-haffermann-873746209" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
   <a href = "mateushaffmain@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-GMAIL-%23f1413d?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
