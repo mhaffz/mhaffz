@@ -1,5 +1,6 @@
-### Hello! I'm Mateus Haffermann, welcome to my profile ;) 
+### Hello! My name is Mateus Haffermann Farias, i'm a front-end developer. Welcome to my profile ;) 
 #
+
 <div align="center">
   <div>
   <a href="https://github.com/mhaffz">
