@@ -23,5 +23,5 @@
   <a href = "mailto:mateushaffmain@gmail.com"><img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
     
-  ![](https://komarev.com/ghpvc/?username=mhaffz&color=blueviolet&style=flat-square)    
+  ![](https://komarev.com/ghpvc/?username=mhaffz&color=brightgreen&style=flat-square)    
 </div>
