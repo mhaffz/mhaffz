@@ -1,11 +1,19 @@
-### Hello! My name is Mateus Haffermann Farias, i'm a front-end developer. Welcome to my profile ;) 
-#
+### Hello! My name is Mateus Haffermann Farias, i'm a front-end development student. Welcome to my profile ;) 
+#  
+<a href="https://www.linkedin.com/in/mateus-haffermann" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
+  
+<li>Always in love with this world of technology. 🖥️❤️</li>
+<li>Being better every day. My fight is versus myself. 🫡</li>
+<li>I'm very curious about technology. 🤔</li>
+<li>I intend to become a fullstack developer soon, however, I am also very curious about the mobile area. 🙂</li>
+<li>Currently I'm solidifying my knowledge in front-end basics, Javascript, HTML and CSS. 📚💡</li>
 
+#  
 <div align="center">
   <div>
   <a href="https://github.com/mhaffz">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mhaffz&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhaffz&layout=compact&langs_count=7&theme=onedark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mhaffz&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhaffz&layout=compact&langs_count=7&theme=codeSTACKr"/>
 </div>
   
 <div style="display: inline_block"><br>
@@ -16,11 +24,5 @@
   <img align="center" alt="Mateus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
-  ####
-  
-  <div> 
-  <!-- <a href="https://instagram.com/haffz._" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Instagram-%23ED1C24?style=for-the-badge&logo=instagram&logoColor=white"></a> -->
-  <a href="https://www.linkedin.com/in/mateus-haffermann" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-  <a href = "mailto:mateushaffmain@gmail.com"><img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</div>
-
+####
+<img src="https://user-images.githubusercontent.com/89369788/206827995-95f19592-d06b-4903-9586-d6314dddf204.gif" width="300">
