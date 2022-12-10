@@ -1,7 +1,7 @@
-### Hello! My name is Mateus Haffermann Farias, i'm a front-end development student. Welcome to my profile ;) 
+### Hello! I'm Mateus Haffermann. Welcome to my profile ;) 
 #  
-<a href="https://www.linkedin.com/in/mateus-haffermann" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
-  
+<a href="https://www.linkedin.com/in/mateus-haffermann" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+#  
 <li>Always in love with this world of technology. 🖥️❤️</li>
 <li>Being better every day. My fight is versus myself. 🫡</li>
 <li>I'm very curious about technology. 🤔</li>
