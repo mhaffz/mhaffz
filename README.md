@@ -1,5 +1,7 @@
 ### Hello! I'm Mateus Haffermann. Welcome to my profile ;) 
-#  
+#    
+<i>Connect with me:</i>    
+
 <a href="https://www.linkedin.com/in/mateus-haffermann" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 #  
 <li>Always in love with this world of technology. 🖥️❤️</li>
