@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/mateus-haffermann" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 #  
 <li>Always in love with this world of technology. 🖥️❤️</li>
-<li>Being better every day. My fight is versus myself. 🫡</li>
+<li>Being better every day. My fight is versus myself. 😌</li>
 <li>I'm very curious about technology. 🤔</li>
 <li>I intend to become a fullstack developer soon, however, I am also very curious about the mobile area. 🙂</li>
 <li>Currently I'm solidifying my knowledge in front-end basics, Javascript, HTML and CSS. 📚💡</li>
