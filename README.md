@@ -7,19 +7,20 @@
 <li>Always in love with this world of technology. 🖥️❤️</li>
 <li>Being better every day. My fight is versus myself. 😌</li>
 <li>I'm very curious about technology. 🤔</li>
-<li>I intend to become a fullstack developer soon, however, I am also very curious about the mobile area. 🙂</li>
-<li>Currently I'm solidifying my knowledge in front-end basics, Javascript, HTML and CSS. 📚💡</li>
+<li>Currently I'm solidifying my knowledge in mobile area with Flutter. 📚💡</li>
 
 #
-<div style="display: inline_block"><br>
-  <img align="center" alt="Mateus-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Mateus-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Mateus-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Mateus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Mateus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>  
 
-#
+![mhaffz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhaffz&theme=gotham&show_icons=true&hide_border=false&layout=compact)
 
 ####
-<img src="https://user-images.githubusercontent.com/89369788/206827995-95f19592-d06b-4903-9586-d6314dddf204.gif" width="300">
+<div style="display: inline_block"><br>
+  <img align="center" alt="Mateus-Flutter" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg">
+  <img align="center" alt="Mateus-Flutter" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg">
+  <img align="center" alt="Mateus-JS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Mateus-JS" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Mateus-JS" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">
+</div>
+
+#
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif">
