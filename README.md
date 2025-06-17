@@ -7,7 +7,7 @@
 <li>Always in love with the world of technology. 🖥️❤️</li>
 <li>Getting better every day. My fight is against myself. 😌</li>
 <li>I'm very curious about technology. 🤔</li>
-<li>Currently, I'm solidifying my knowledge in the mobile area with Flutter. 📚💡</li>
+<li>Currently, I'm solidifying my knowledge in the mobile area with Flutter and Web Development. 📚💡</li>
 
 #
 
@@ -17,8 +17,10 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Mateus-Flutter" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg">
   <img align="center" alt="Mateus-Flutter" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg">
-  <img align="center" alt="Mateus-JS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Mateus-JS" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Mateus-JS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Mateus-JS" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
+  <img align="center" alt="Mateus-JS" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
   <img align="center" alt="Mateus-JS" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">
 </div>
 
