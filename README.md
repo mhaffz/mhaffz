@@ -7,7 +7,7 @@
 <li>Always in love with the world of technology. 🖥️❤️</li>
 <li>Getting better every day. My fight is against myself. 😌</li>
 <li>I'm very curious about technology. 🤔</li>
-<li>Currently, I'm solidifying my knowledge in the mobile area with Flutter and Web Development. 📚💡</li>
+<li>Currently, I’m strengthening my skills in desktop software development using C# and .NET. 📚💡</li>
 
 #
 
