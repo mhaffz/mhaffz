@@ -1,25 +1,50 @@
-### Hello! I'm Mateus Haffermann. Welcome to my profile ;) 
-#    
-<i>Connect with me:</i>    
-
-<a href="https://www.linkedin.com/in/mateus-haffermann" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-#
-<li>Always in love with the world of technology. 🖥️❤️</li>
-<li>Getting better every day. My fight is against myself. 😌</li>
-<li>I'm very curious about technology. 🤔</li>
-<li>Currently, I’m strengthening my skills in desktop software development using C# and .NET. 📚💡</li>
-
-#
-
-![mhaffz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhaffz&theme=gotham&show_icons=true&hide_border=false&layout=compact)
-
-#
-<div style="display: inline_block"><br>
-  <img align="center" alt="Mateus-JS" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Mateus-JS" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg"">
-  <img align="center" alt="Mateus-JS" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"">
-  <img align="center" alt="Mateus-JS" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">
+<div align="center">
+  <h1 style="margin-bottom: 2px;"><strong>Mateus Haffermann</strong></h1>
+  <h3 style="margin-top: 0; font-weight: 500;">
+    Software Developer • Desktop & Systems • C# / .NET
+  </h3>
+  <a href="https://www.linkedin.com/in/mateus-haffermann" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:mateushaffdev@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
-#
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif">
+---
+
+## 👨‍💻 Summary
+
+Focused and grounded. Currently studying Analysis and Systems Development (ADS) at IFRO, while already building with C#, .NET, and desktop software development. I value clarity: solve the problem, keep the code clean, and make the solution last.
+
+I approach software with a traditional mindset — stability first, zero noise — backed by modern tools and strong fundamentals. Always improving, always learning, always delivering.
+
+---
+
+## 🛠️ Core Skills
+
+* **C# / .NET** — Desktop development, architecture, MVVM, clean patterns.
+* **MySQL** — Data modeling, queries, optimization.
+* **Linux** — Daily driver for development and automation.
+* **JavaScript / HTML / CSS** — Frontend fundamentals.
+
+---
+
+## 🎯 What I Bring to a Team
+
+* Strong problem-solving and debugging mindset.
+* Practical, maintainable code — no overengineering.
+* Fast learner with solid fundamentals.
+* Ability to work independently and deliver consistently.
+* Discipline, reliability, and respect for process.
+
+---
+
+## 📈 GitHub Snapshot
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=mhaffz&show_icons=true&theme=transparent&hide_title=true&hide_border=true&rank_icon=github" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhaffz&layout=compact&theme=transparent&hide_border=true" />
+</div>
+
+---
+
+<div align="center">
+  <sub>Thanks for visiting.</sub>
+</div>
