@@ -20,7 +20,7 @@ I approach software with a traditional mindset — stability first, zero noise �
 ## 🛠️ Core Skills
 
 * **C# / .NET** — Desktop development, architecture, MVVM, clean patterns.
-* **MySQL** — Data modeling, queries, optimization.
+* **SQL / MySQL** — Data modeling, queries, optimization.
 * **Linux** — Daily driver for development and automation.
 * **JavaScript / HTML / CSS** — Frontend fundamentals.
 
