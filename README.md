@@ -35,15 +35,6 @@ I approach software with a traditional mindset — stability first, zero noise �
 
 ---
 
-## 📈 GitHub Snapshot
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=mhaffz&show_icons=true&theme=transparent&hide_title=true&hide_border=true&rank_icon=github" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhaffz&layout=compact&theme=transparent&hide_border=true" />
-</div>
-
----
-
 <div align="center">
   <sub>Thanks for visiting.</sub>
 </div>
