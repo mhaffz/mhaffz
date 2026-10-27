@@ -9,7 +9,7 @@
 
 ---
 
-## 👨‍💻 Summary
+## Summary
 
 Focused and grounded. Currently studying Analysis and Systems Development (ADS) at IFRO, while already building with C#, .NET, and desktop software development. I value clarity: solve the problem, keep the code clean, and make the solution last.
 
@@ -17,7 +17,7 @@ I approach software with a traditional mindset — stability first, zero noise �
 
 ---
 
-## 🛠️ Core Skills
+## Core Skills
 
 * **C# / .NET** — Desktop development, WPF, XAML, architecture, MVVM, clean patterns.
 * **SQL / MySQL** — Data modeling, queries, optimization.
@@ -25,7 +25,7 @@ I approach software with a traditional mindset — stability first, zero noise �
 
 ---
 
-## 🎯 What I Bring to a Team
+## What I Bring to a Team
 
 * Strong problem-solving and debugging mindset.
 * Practical, maintainable code — no overengineering.
